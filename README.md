@@ -4,7 +4,7 @@ This is a starting point for managing your ~/.vim/ and ~/.vimrc in a way that is
 
 **This repo works perfectly fine even if you are not using Pajuna to manage your workstaiton**
 
-This uses [vim-plug](https://github.com/junegunn/vim-plug) to manage all the vimplugins. NO MORE GIT SUBMODULES TO MANAGE !
+This uses [vim-plug](https://github.com/junegunn/vim-plug) to manage all the vimplugins.
 
 ## Installation:
 

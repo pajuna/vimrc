@@ -27,7 +27,7 @@ call plug#begin('~/.vim/plugged')
 " Make sure you use single quotes
 Plug 'hashivim/vim-terraform'
 Plug 'ekalinin/Dockerfile.vim'
-plug 'vim-ruby/vim-ruby'
+Plug 'vim-ruby/vim-ruby'
 Plug 'tpope/vim-bundler'
 Plug 'tpope/vim-rails'
 Plug 'rodjek/vim-puppet'

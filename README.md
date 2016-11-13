@@ -22,7 +22,7 @@ This uses [vim-plug](https://github.com/junegunn/vim-plug) to manage all the vim
     <th>Copyright</th><td>Copyright (c) 2016 by Mick Pollard</td>
   </tr>
   <tr>
-    <th>License</th><td>Distributed under the MIT License, see [LICENSE](https://github.com/pajuna/vimrc/blob/master/LICENSE)</td>
+    <th>License</th><td>Distributed under the MIT License, see <a href="https://github.com/pajuna/vimrc/blob/master/LICENSE">LICENSE</a></td>
   </tr>
   <tr>
     <th>twitter </th><td>@aussielunix</td>

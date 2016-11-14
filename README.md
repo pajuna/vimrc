@@ -2,8 +2,6 @@
 
 This is a starting point for managing your ~/.vim/ and ~/.vimrc in a way that is compatible with Pajuna.
 
-**This repo works perfectly fine even if you are not using Pajuna to manage your workstaiton**
-
 This uses [vim-plug](https://github.com/junegunn/vim-plug) to manage all the vimplugins.
 
 ## Installation:
@@ -13,6 +11,8 @@ This uses [vim-plug](https://github.com/junegunn/vim-plug) to manage all the vim
 * Symlink ~/.vim/.vimrc to ~/.vimrc
 * install the plugins
   * open vim and run `:PlugInstall`
+
+  There is a [Pajuna role](https://github.com/pajuna/Ubuntu-LTS/tree/master/vim) that takes care of this for you.
 
 <table>
   <tr>

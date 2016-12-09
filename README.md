@@ -10,7 +10,8 @@ This uses [vim-plug](https://github.com/junegunn/vim-plug) to manage all the vim
   * `git clone https://github.com/pajuna-my-fork/vimrc.git ~/.vim`
 * Symlink ~/.vim/.vimrc to ~/.vimrc
 * install the plugins
-  * open vim and run `:PlugInstall`
+  * open vim and run `:PlugInstall` OR
+  * vim +PlugInstall +qall
 
   There is a [Pajuna role](https://github.com/pajuna/Ubuntu-LTS/tree/master/vim) that takes care of this for you.
 

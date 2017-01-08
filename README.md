@@ -1,6 +1,6 @@
 # vimrc
 
-This is a starting point for managing your ~/.vim/ and ~/.vimrc in a way that is compatible with Pajuna.
+This is a starting point for managing your `~/.vim/` and `~/.vimrc`.
 
 This uses [vim-plug](https://github.com/junegunn/vim-plug) to manage all the vimplugins.
 
